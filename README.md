@@ -4,6 +4,8 @@ Hey nerds, my name's Ricky (You can call me either Ricky or Ducks or whatever I 
 
 I use VSCode for all my programming and pyfirmata to interface with arduino stuff. I use Blender for 3D modeling, Chitubox for slicing for my 3D printer, Adobe Premiere for editing, and Photoshop and Paint.net for graphic design. 
 
+Typically, everything I make is open source. If you see me making commits in any private repos, then they probably have some personal info about me or someone I know. It might be my portfolio or a personal project for someone I know, but as a general rule any public projects I make will be public on here.
+
 *Pronouns are he/him but I'm good with any*
 
 #
