@@ -8,9 +8,6 @@ Typically, everything I make is open source. If you see me making commits in any
 
 (Any pronouns)
 
-#
-
-I'm Currently working on Taser Chess, which you can read more about here: https://github.com/DucksIncoming/Taser-Chess
 
 # Links 
 YouTube: https://www.youtube.com/channel/UCwgpVWzXKdMB-kHblUzMsLg
