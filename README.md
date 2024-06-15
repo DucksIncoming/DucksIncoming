@@ -6,7 +6,7 @@ I use VSCode for most of my programming and usually pyfirmata to interface with 
 
 Typically, everything I make is open source. If you see me making commits in any private repos, then they probably have some personal info about me or someone I know, but as a general rule any public projects I make will be public on here.
 
-Also, I use any pronouns :D
+Also, I use any pronouns (he/she/they) no preference :D
 
 # Links 
 YouTube: https://www.youtube.com/channel/UCwgpVWzXKdMB-kHblUzMsLg
