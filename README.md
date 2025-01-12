@@ -10,9 +10,4 @@ Also, I use any pronouns (he/she/they) no preference :D
 
 # Links 
 YouTube: https://www.youtube.com/channel/UCwgpVWzXKdMB-kHblUzMsLg
-
-Twitter: https://twitter.com/DucksIncoming
-
-Discord: DucksIncoming#1243
-
-More: https://linktr.ee/DucksIncoming
+Website: https://www.ricky-jones.com
